@@ -2,7 +2,7 @@ Version 1.0
 
 Install by adding this code to your child theme functions file.
 
-Create your child theme with the "Child Theme Configurator" plugin
+Create your child theme with the "Child Theme Configurator" plugin.
 
 Free version ( Publisher account ) of the hCaptcha plugin remote functions being used for testing.
 
