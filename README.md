@@ -1,1 +1,1 @@
-# Ultimate-Member-WP-plugin-addons
+# hCaptcha addon for Ultimate Member plugin
