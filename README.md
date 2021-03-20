@@ -11,5 +11,7 @@ Install and activate the hCaptcha plugin for setting the configuration because t
     hCaptcha Theme
     hCaptcha Size
 
+Ultimate Member forms supported are: Registration, Login and Password reset.
+
 Deactivate the hCaptcha plugin during usage of this code but keep the plugin for future changes of the configuration parameters and if a local language being used
 Any local language file is being used from the hCaptcha plugin if required regardless of the activatation status of the hCaptcha plugin
